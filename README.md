@@ -1,2 +1,1 @@
-# areyouterminated.github.io
-Landing page
+#Landing Page of areyouterminated.com
