@@ -1,6 +1,6 @@
 /*!
- * Start Bootstrap - Agency v4.0.0-alpha (http://startbootstrap.com/template-overviews/agency)
- * Copyright 2013-2017 Start Bootstrap
+ * Are you terminated - AreYouTerminated v1.0.0 (http://areyouterminated.com)
+ * Copyright 2013-2017 Aziz Khilawala
  * Licensed under MIT (https://github.com/BlackrockDigital/startbootstrap/blob/gh-pages/LICENSE)
  */
 body {
@@ -9,6 +9,9 @@ body {
 }
 .text-primary {
   color: #fed136 !important;
+}
+.pottery-red {
+  color: #F05F40 !important;
 }
 p {
   line-height: 1.75;
@@ -238,6 +241,8 @@ header .intro-text .intro-heading {
   header .intro-text .intro-para {
     font-size: 1.8em;
     opacity: 0.7;
+    max-width: 60%;
+    margin: 1.5em auto;
   }
   header .intro-text .intro-heading {
     font-family: "Montserrat", "Helvetica Neue", Helvetica, Arial, sans-serif;
